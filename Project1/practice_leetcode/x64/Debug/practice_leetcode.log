@@ -1,0 +1,4 @@
+﻿  test_0727_lc_392.c
+D:\Users\72165048\tools\Project1\practice_leetcode\test_0727_lc_392.c(28,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\72165048\tools\Project1\practice_leetcode\test_0727_lc_392.c(28,51): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  practice_leetcode.vcxproj -> D:\Users\72165048\tools\Project1\x64\Debug\practice_leetcode.exe

@@ -1,0 +1,3 @@
+﻿  test_0718_leetcode_198.c
+D:\Users\72165048\tools\Project1\Project1\test_0718_leetcode_198.c(82,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project1.vcxproj -> D:\Users\72165048\tools\Project1\x64\Debug\Project1.exe

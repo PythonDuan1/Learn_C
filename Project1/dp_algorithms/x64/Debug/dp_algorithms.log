@@ -1,0 +1,5 @@
+﻿  narcissistic_number_0814.c
+D:\Users\72165048\tools\Project1\dp_algorithms\narcissistic_number_0814.c(19,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Users\72165048\tools\Project1\dp_algorithms\narcissistic_number_0814.c(12,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Users\72165048\tools\Project1\dp_algorithms\narcissistic_number_0814.c(13,26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  dp_algorithms.vcxproj -> D:\Users\72165048\tools\Project1\x64\Debug\dp_algorithms.exe

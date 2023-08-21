@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_file.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0509.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_while.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0509_for.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0510_do_while.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0510_goto.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0510_func.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0511_array.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0515_ifelse.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0515_switch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0515_while.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0516_train.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0517_array.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0517_operators.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0518_pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0519_struct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0519_data_storage.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0522_goto.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0522_func.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0523_pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0524_string_func.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0525_func2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0529_func3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0529_func_recursion.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0530_func_recursion.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0531_func_recursion.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0601_func_train.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0605_array.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0712_pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0714_leetcode_26.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0717_leetcode_415.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0717_leetcode_35.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_0718_leetcode_198.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="add.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
